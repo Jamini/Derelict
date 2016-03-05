@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Basictesting.unity
+  isLoaded: 1
+  isActive: 1
